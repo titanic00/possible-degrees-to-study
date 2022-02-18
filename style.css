@@ -1,0 +1,31 @@
+* {
+    font-family: Geneva;
+}
+
+body {
+    font-size: 20px;
+}
+
+.redSection {
+    background-color: #e8c5c5;
+}
+
+.blue-greenSection {
+    background-color: #8fe6eb;
+}
+
+.blue-orangeSection {
+    background-color: rgb(111, 192, 192);
+}
+
+.pinkSection {
+    background-color: #c4a6a6;
+}
+
+.degreeRelPic {
+    height: 250px;
+}
+
+a {
+    color: blue;
+}
